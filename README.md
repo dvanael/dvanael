@@ -6,6 +6,6 @@
   <img width="auto" src ="https://github-readme-stats.vercel.app/api?username=dvanael&show_icons=true&theme=radical&title_color=bdf&icon_color=8af&text_color=ddd&bg_color=0d1117&hide_border=true">
   <img width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=dvanael&layout=compact&theme=radical&title_color=bdf&icon_color=8af&text_color=ddd&bg_color=0d1117&hide_border=true">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dvanael&theme=tokyonight-duo&hide_border=true&dates=DDDDDD&currStreakLabel=BBDDFF&sideNums=DDDDDD&ring=88AAFF&fire=88AAFF&currStreakNum=DDDDDD&sideLabels=BBDDFF" alt="GitHub Streak" />
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=dvanael&theme=tokyonight-duo&hide_border=true&dates=DDDDDD&currStreakLabel=BBDDFF&sideNums=DDDDDD&ring=88AAFF&fire=88AAFF&currStreakNum=DDDDDD&sideLabels=BBDDFF" alt="GitHub Streak" /> -->
   
 </div>
